@@ -7,7 +7,7 @@ namespace Cipher
     static void Main(string[] args)
     {
       var messageSecret = "I LOVE PYTHON";
-      System.Console.WriteLine("Message cripté: ");
+      System.Console.WriteLine("Message a cripté: ");
       Console.WriteLine(Caeser_shift(messageSecret, 1));
       System.Console.WriteLine("Massage décripté");
       Console.WriteLine(Caeser_shift_decode(Caeser_shift(messageSecret, 1), 1));
