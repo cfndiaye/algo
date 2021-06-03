@@ -1,0 +1,16 @@
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\obj\Debug\net5.0\Cipher.csprojAssemblyReference.cache
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\obj\Debug\net5.0\Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\obj\Debug\net5.0\Cipher.AssemblyInfoInputs.cache
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\obj\Debug\net5.0\Cipher.AssemblyInfo.cs
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\obj\Debug\net5.0\Cipher.csproj.CoreCompileInputs.cache
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\bin\Debug\net5.0\Cipher.exe
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\bin\Debug\net5.0\Cipher.deps.json
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\bin\Debug\net5.0\Cipher.runtimeconfig.json
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\bin\Debug\net5.0\Cipher.runtimeconfig.dev.json
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\bin\Debug\net5.0\Cipher.dll
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\bin\Debug\net5.0\ref\Cipher.dll
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\bin\Debug\net5.0\Cipher.pdb
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\obj\Debug\net5.0\Cipher.dll
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\obj\Debug\net5.0\ref\Cipher.dll
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\obj\Debug\net5.0\Cipher.pdb
+C:\Users\cfndi\source\repos\ConsoleDeTest\Cipher\obj\Debug\net5.0\Cipher.genruntimeconfig.cache

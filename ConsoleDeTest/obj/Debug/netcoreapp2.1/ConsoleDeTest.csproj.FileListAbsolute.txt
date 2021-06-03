@@ -1,0 +1,12 @@
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\bin\Debug\netcoreapp2.1\ConsoleDeTest.deps.json
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\bin\Debug\netcoreapp2.1\ConsoleDeTest.runtimeconfig.json
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\bin\Debug\netcoreapp2.1\ConsoleDeTest.runtimeconfig.dev.json
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\bin\Debug\netcoreapp2.1\ConsoleDeTest.dll
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\bin\Debug\netcoreapp2.1\ConsoleDeTest.pdb
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.csprojAssemblyReference.cache
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.csproj.CoreCompileInputs.cache
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.AssemblyInfoInputs.cache
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.AssemblyInfo.cs
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.dll
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.pdb
+C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.genruntimeconfig.cache
