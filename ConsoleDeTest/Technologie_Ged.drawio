@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T15:27:01.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Xyy2YMA0AujcKeDBQqZg" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-14T15:48:59.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="6omGP68n_qwUPg1f7RUj" version="14.6.6" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
-    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#0069D1;" parent="1" vertex="1">
+        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#97D077;strokeColor=#9DD97C;" parent="1" vertex="1">
           <mxGeometry x="280" y="110" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-2" value="SYSTEM&lt;br&gt;GED" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="70666756c84bb93c-2" value="SYSTEM&lt;br&gt;GED" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontStyle=1;fontColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="400" y="230" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="70666756c84bb93c-5" value="Utilisateurs&lt;br&gt;interne" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -17,7 +17,7 @@
           <mxGeometry x="676" y="413" width="46" height="55" as="geometry" />
         </mxCell>
         <mxCell id="70666756c84bb93c-7" value="Collaboration" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.response_group;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="342" y="203" width="58" height="54" as="geometry" />
+          <mxGeometry x="370" y="190" width="58" height="54" as="geometry" />
         </mxCell>
         <mxCell id="70666756c84bb93c-8" value="Base de&lt;br&gt;données" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.services.central_management_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="317" y="313" width="51" height="54" as="geometry" />
@@ -32,13 +32,13 @@
           <mxGeometry x="593" y="490" width="34" height="55" as="geometry" />
         </mxCell>
         <mxCell id="70666756c84bb93c-12" value="Utilisateurs &lt;br&gt;Externes" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.globe_internet;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="441" y="140" width="49" height="49" as="geometry" />
+          <mxGeometry x="520" y="130" width="49" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-13" value="Respect&lt;br&gt;Environnement" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.general.continuous_cycle;fillColor=#ffffff;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="1" vertex="1">
-          <mxGeometry x="550" y="135" width="48" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="70666756c84bb93c-15" value="Budget" style="shape=mxgraph.signs.travel.euro;html=1;fillColor=#ffffff;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="70666756c84bb93c-15" value="Opérations" style="shape=mxgraph.signs.travel.euro;html=1;fillColor=#ffffff;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="655" y="185" width="45" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="LUvwW2HYs-43naM1Azj4-5" value="ACTEURS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#97D077;fontStyle=1;fontSize=30;labelBackgroundColor=none;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="50" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
