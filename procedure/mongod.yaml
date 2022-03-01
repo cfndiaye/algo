@@ -1,0 +1,17 @@
+--Use SCRAM to Authenticate Clients
+  mongod --port 27017 --dbpath /var/lib/mongodb
+  mongosh --port 27017
+    use admin
+    
+use admin
+ db.createUser({ user: "admin", pwd: passwordPrompt(), roles: [{ role: "userAdminAnyDatabase", db: "admin" }, { role: "readWriteAnyDatabase", db: "admin" }]})
+
+
+--Authenticate after Connection
+  mongosh --port 27017
+  use admin
+  db.auth("admin", passwordPrompt()) 
+
+--ajouter un user
+ use purchaseproductiondb
+  db.createUser({ user:"cfndiaye",pwd:"58781681",roles:[{role:"readWrite",db: "purchaseproductiondb"}]})
