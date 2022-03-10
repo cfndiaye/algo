@@ -15,3 +15,7 @@ use admin
 --ajouter un user
  use purchaseproductiondb
   db.createUser({ user:"cfndiaye",pwd:"58781681",roles:[{role:"readWrite",db: "purchaseproductiondb"}]})
+
+--ajouter un user
+ use purchasedb
+  db.createUser({ user:"cfndiaye",pwd:"58781681",roles:[{role:"readWrite",db: "purchasedb"}]})
