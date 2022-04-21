@@ -12,6 +12,7 @@
 
 --Add the Docker repository to your system repository:
     sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/debian buster stable"
+    sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/debian buster stable"
 
 --Update the apt repository:
     sudo apt-get update
