@@ -1,0 +1,15 @@
+/workspaces/algo/coinProblem/bin/Debug/net6.0/coinProblem
+/workspaces/algo/coinProblem/bin/Debug/net6.0/coinProblem.deps.json
+/workspaces/algo/coinProblem/bin/Debug/net6.0/coinProblem.runtimeconfig.json
+/workspaces/algo/coinProblem/bin/Debug/net6.0/coinProblem.dll
+/workspaces/algo/coinProblem/bin/Debug/net6.0/coinProblem.pdb
+/workspaces/algo/coinProblem/obj/Debug/net6.0/coinProblem.csproj.AssemblyReference.cache
+/workspaces/algo/coinProblem/obj/Debug/net6.0/coinProblem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/algo/coinProblem/obj/Debug/net6.0/coinProblem.AssemblyInfoInputs.cache
+/workspaces/algo/coinProblem/obj/Debug/net6.0/coinProblem.AssemblyInfo.cs
+/workspaces/algo/coinProblem/obj/Debug/net6.0/coinProblem.csproj.CoreCompileInputs.cache
+/workspaces/algo/coinProblem/obj/Debug/net6.0/coinProblem.dll
+/workspaces/algo/coinProblem/obj/Debug/net6.0/refint/coinProblem.dll
+/workspaces/algo/coinProblem/obj/Debug/net6.0/coinProblem.pdb
+/workspaces/algo/coinProblem/obj/Debug/net6.0/coinProblem.genruntimeconfig.cache
+/workspaces/algo/coinProblem/obj/Debug/net6.0/ref/coinProblem.dll
