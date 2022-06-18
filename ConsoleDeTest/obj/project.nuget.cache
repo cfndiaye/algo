@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VLzUJg6Qm0kJWWS6J2UTHIWu7gwpJfZkCZBa4GK4QTu0wKWAxTxaa/UVumzSvO2ILw9FQWb+vee03fOkgSvndw==",
+  "dgSpecHash": "4LwdbMg9okVQk3K4SFH1wQrsIqTqMIzakIta7Fp9j2mg9VsMSphd8l5edfWA9KbwiX6gLFZesEeXHAc5UYYRaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cfndi\\source\\repos\\ConsoleDeTest\\ConsoleDeTest\\ConsoleDeTest.csproj",
+  "projectFilePath": "C:\\Users\\cfndi\\RiderProjects\\algo\\ConsoleDeTest\\ConsoleDeTest.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
@@ -10,7 +10,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\cfndi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

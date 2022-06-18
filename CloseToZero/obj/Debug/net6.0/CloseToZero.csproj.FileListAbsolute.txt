@@ -1,0 +1,15 @@
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\bin\Debug\net6.0\CloseToZero.exe
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\bin\Debug\net6.0\CloseToZero.deps.json
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\bin\Debug\net6.0\CloseToZero.runtimeconfig.json
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\bin\Debug\net6.0\CloseToZero.dll
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\bin\Debug\net6.0\CloseToZero.pdb
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\obj\Debug\net6.0\CloseToZero.csproj.AssemblyReference.cache
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\obj\Debug\net6.0\CloseToZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\obj\Debug\net6.0\CloseToZero.AssemblyInfoInputs.cache
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\obj\Debug\net6.0\CloseToZero.AssemblyInfo.cs
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\obj\Debug\net6.0\CloseToZero.csproj.CoreCompileInputs.cache
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\obj\Debug\net6.0\CloseToZero.dll
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\obj\Debug\net6.0\refint\CloseToZero.dll
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\obj\Debug\net6.0\CloseToZero.pdb
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\obj\Debug\net6.0\CloseToZero.genruntimeconfig.cache
+C:\Users\cfndi\RiderProjects\algo\CloseToZero\obj\Debug\net6.0\ref\CloseToZero.dll
