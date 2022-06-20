@@ -1,0 +1,15 @@
+/workspaces/algo/Factoriel/bin/Debug/net6.0/Factoriel
+/workspaces/algo/Factoriel/bin/Debug/net6.0/Factoriel.deps.json
+/workspaces/algo/Factoriel/bin/Debug/net6.0/Factoriel.runtimeconfig.json
+/workspaces/algo/Factoriel/bin/Debug/net6.0/Factoriel.dll
+/workspaces/algo/Factoriel/bin/Debug/net6.0/Factoriel.pdb
+/workspaces/algo/Factoriel/obj/Debug/net6.0/Factoriel.csproj.AssemblyReference.cache
+/workspaces/algo/Factoriel/obj/Debug/net6.0/Factoriel.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/algo/Factoriel/obj/Debug/net6.0/Factoriel.AssemblyInfoInputs.cache
+/workspaces/algo/Factoriel/obj/Debug/net6.0/Factoriel.AssemblyInfo.cs
+/workspaces/algo/Factoriel/obj/Debug/net6.0/Factoriel.csproj.CoreCompileInputs.cache
+/workspaces/algo/Factoriel/obj/Debug/net6.0/Factoriel.dll
+/workspaces/algo/Factoriel/obj/Debug/net6.0/refint/Factoriel.dll
+/workspaces/algo/Factoriel/obj/Debug/net6.0/Factoriel.pdb
+/workspaces/algo/Factoriel/obj/Debug/net6.0/Factoriel.genruntimeconfig.cache
+/workspaces/algo/Factoriel/obj/Debug/net6.0/ref/Factoriel.dll
