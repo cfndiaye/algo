@@ -10,3 +10,16 @@ C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\
 C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.dll
 C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.pdb
 C:\Users\cfndi\source\repos\ConsoleDeTest\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.genruntimeconfig.cache
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\bin\Debug\netcoreapp2.1\ConsoleDeTest.deps.json
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\bin\Debug\netcoreapp2.1\ConsoleDeTest.runtimeconfig.json
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\bin\Debug\netcoreapp2.1\ConsoleDeTest.runtimeconfig.dev.json
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\bin\Debug\netcoreapp2.1\ConsoleDeTest.dll
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\bin\Debug\netcoreapp2.1\ConsoleDeTest.pdb
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.csproj.AssemblyReference.cache
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.AssemblyInfoInputs.cache
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.AssemblyInfo.cs
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.csproj.CoreCompileInputs.cache
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.dll
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.pdb
+C:\Users\cfndiayelocal\Source\Repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\netcoreapp2.1\ConsoleDeTest.genruntimeconfig.cache

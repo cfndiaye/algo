@@ -1,0 +1,15 @@
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\bin\Debug\net6.0\ConsoleDeTest.exe
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\bin\Debug\net6.0\ConsoleDeTest.deps.json
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\bin\Debug\net6.0\ConsoleDeTest.runtimeconfig.json
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\bin\Debug\net6.0\ConsoleDeTest.dll
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\bin\Debug\net6.0\ConsoleDeTest.pdb
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\net6.0\ConsoleDeTest.csproj.AssemblyReference.cache
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\net6.0\ConsoleDeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\net6.0\ConsoleDeTest.AssemblyInfoInputs.cache
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\net6.0\ConsoleDeTest.AssemblyInfo.cs
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\net6.0\ConsoleDeTest.csproj.CoreCompileInputs.cache
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\net6.0\ConsoleDeTest.dll
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\net6.0\refint\ConsoleDeTest.dll
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\net6.0\ConsoleDeTest.pdb
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\net6.0\ConsoleDeTest.genruntimeconfig.cache
+C:\Users\cfndiayelocal\source\repos\cfndiaye\algo\ConsoleDeTest\obj\Debug\net6.0\ref\ConsoleDeTest.dll
