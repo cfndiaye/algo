@@ -1,8 +1,8 @@
 namespace ContainDuplicate;
-public class ConDuplicate
+public static class ContainsDuplicates
 {
     //foreach implementation
-    public bool ContainsDuplicatesForeach<T>(IEnumerable<T> enumerable)
+    public static bool ContainsDuplicatesForeach<T>(IEnumerable<T> enumerable)
     {
         HashSet<T> set = new();
 
@@ -17,7 +17,7 @@ public class ConDuplicate
     }
 
     //Linq.Any implementation
-    public bool ContainsDuplicatesLinqAny<T>(IEnumerable<T> enumerable)
+    public static bool ContainsDuplicatesLinqAny<T>(IEnumerable<T> enumerable)
     {
         HashSet<T> set = new();
 
@@ -25,7 +25,7 @@ public class ConDuplicate
     }
 
     //Linq.All implementation
-    public bool ContainsDuplicatesLinqAll<T>(IEnumerable<T> enumerable)
+    public static bool ContainsDuplicatesLinqAll<T>(IEnumerable<T> enumerable)
     {
         HashSet<T> set = new();
 
@@ -33,10 +33,15 @@ public class ConDuplicate
     }
 
     //Distinct implementation
-    public bool ContainsDuplicatesDistinct<T>(IEnumerable<T> enumerable)
+    public static bool ContainsDuplicatesDistinct<T>(IEnumerable<T> enumerable)
     {
        
         return enumerable.Distinct().Count() != enumerable.Count();
        
+    }
+
+    public static bool ContainsDuplicatesToHashSet<T>(IEnumerable<T> enumerable)
+    {
+        return enumerable.ToHashSet().Count != enumerable.Count();
     }
 }

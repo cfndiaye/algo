@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "TceXmeTBWKyYjJUZ1VBRuybs3PvaVjYHQ+5GzE+w7CPiv1lPUCcopq8QZvr7s3ggF5TLWK3aEDqE/zaQSP00tg==",
   "success": true,
   "projectFilePath": "C:\\Users\\cfndiayelocal\\source\\repos\\cfndiaye\\algo\\CloseToZero\\CloseToZero.csproj",
+=======
+  "dgSpecHash": "CYHK50Ow5NVKDyBGQE2ULlriprPVWU26n52Ls+OGuFvZOTh8z9ZTFveovjwXCmRy1Axp8CfNKFV7/mwN4RJY5Q==",
+  "success": true,
+  "projectFilePath": "/workspaces/algo/CloseToZero/CloseToZero.csproj",
+>>>>>>> 82843a1 (Benchmark)
   "expectedPackageFiles": [],
   "logs": []
 }
