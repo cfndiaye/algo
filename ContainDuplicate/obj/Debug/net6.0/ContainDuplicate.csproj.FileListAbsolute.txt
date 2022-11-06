@@ -1,0 +1,15 @@
+/workspaces/algo/ContainDuplicate/obj/Debug/net6.0/ContainDuplicate.csproj.AssemblyReference.cache
+/workspaces/algo/ContainDuplicate/obj/Debug/net6.0/ContainDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/algo/ContainDuplicate/obj/Debug/net6.0/ContainDuplicate.AssemblyInfoInputs.cache
+/workspaces/algo/ContainDuplicate/obj/Debug/net6.0/ContainDuplicate.AssemblyInfo.cs
+/workspaces/algo/ContainDuplicate/obj/Debug/net6.0/ContainDuplicate.csproj.CoreCompileInputs.cache
+/workspaces/algo/ContainDuplicate/bin/Debug/net6.0/ContainDuplicate
+/workspaces/algo/ContainDuplicate/bin/Debug/net6.0/ContainDuplicate.deps.json
+/workspaces/algo/ContainDuplicate/bin/Debug/net6.0/ContainDuplicate.runtimeconfig.json
+/workspaces/algo/ContainDuplicate/bin/Debug/net6.0/ContainDuplicate.dll
+/workspaces/algo/ContainDuplicate/bin/Debug/net6.0/ContainDuplicate.pdb
+/workspaces/algo/ContainDuplicate/obj/Debug/net6.0/ContainDuplicate.dll
+/workspaces/algo/ContainDuplicate/obj/Debug/net6.0/refint/ContainDuplicate.dll
+/workspaces/algo/ContainDuplicate/obj/Debug/net6.0/ContainDuplicate.pdb
+/workspaces/algo/ContainDuplicate/obj/Debug/net6.0/ContainDuplicate.genruntimeconfig.cache
+/workspaces/algo/ContainDuplicate/obj/Debug/net6.0/ref/ContainDuplicate.dll
