@@ -20,6 +20,7 @@ public class Benchmark
 
         var index = (int)(Size * 0.41);
         _collection[index] = _collection[index + 1];
+        System.Diagnostics.Debugger.Launch();
     }
 
     [Benchmark]

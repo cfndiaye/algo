@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>ContainDuplicate.Benchmark-20221106-162036</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.13.2, OS=macOS 13.0 (22A380) [Darwin 22.1.0]
+Apple M1 Pro, 1 CPU, 10 logical and 10 physical cores
+.NET SDK=6.0.302
+  [Host]     : .NET 6.0.7 (6.0.722.32202), Arm64 RyuJIT AdvSIMD  [AttachedDebugger]
+  DefaultJob : .NET 6.0.7 (6.0.722.32202), Arm64 RyuJIT AdvSIMD
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method</th><th>Size</th><th> Mean</th><th>Error</th><th>StdDev</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>Foreach</td><td>100</td><td>666.3 ns</td><td>3.02 ns</td><td>2.83 ns</td><td>2.76 KB</td>
+</tr><tr><td>LinqAny</td><td>100</td><td>725.2 ns</td><td>1.77 ns</td><td>1.66 ns</td><td>2.84 KB</td>
+</tr><tr><td>LinqAll</td><td>100</td><td>727.2 ns</td><td>2.09 ns</td><td>1.96 ns</td><td>2.82 KB</td>
+</tr><tr><td>LinqDistinct</td><td>100</td><td>824.8 ns</td><td>1.54 ns</td><td>1.28 ns</td><td>1.88 KB</td>
+</tr><tr><td>ToHashSet</td><td>100</td><td>786.3 ns</td><td>0.85 ns</td><td>0.80 ns</td><td>1.82 KB</td>
+</tr><tr><td>Foreach</td><td>1000</td><td>4,186.7 ns</td><td>4.50 ns</td><td>4.21 ns</td><td>12.68 KB</td>
+</tr><tr><td>LinqAny</td><td>1000</td><td>4,481.0 ns</td><td>8.75 ns</td><td>8.18 ns</td><td>12.77 KB</td>
+</tr><tr><td>LinqAll</td><td>1000</td><td>4,593.1 ns</td><td>6.97 ns</td><td>6.52 ns</td><td>12.74 KB</td>
+</tr><tr><td>LinqDistinct</td><td>1000</td><td>7,152.1 ns</td><td>33.94 ns</td><td>31.75 ns</td><td>17.45 KB</td>
+</tr><tr><td>ToHashSet</td><td>1000</td><td>7,113.9 ns</td><td>18.32 ns</td><td>17.14 ns</td><td>17.38 KB</td>
+</tr><tr><td>Foreach</td><td>10000</td><td>58,000.1 ns</td><td>366.09 ns</td><td>305.70 ns</td><td>252.26 KB</td>
+</tr><tr><td>LinqAny</td><td>10000</td><td>61,354.7 ns</td><td>779.86 ns</td><td>691.32 ns</td><td>252.35 KB</td>
+</tr><tr><td>LinqAll</td><td>10000</td><td>62,872.5 ns</td><td>572.91 ns</td><td>507.87 ns</td><td>252.33 KB</td>
+</tr><tr><td>LinqDistinct</td><td>10000</td><td>77,035.0 ns</td><td>348.72 ns</td><td>326.19 ns</td><td>158.1 KB</td>
+</tr><tr><td>ToHashSet</td><td>10000</td><td>76,948.1 ns</td><td>413.81 ns</td><td>387.08 ns</td><td>158.03 KB</td>
+</tr></tbody></table>
+</body>
+</html>

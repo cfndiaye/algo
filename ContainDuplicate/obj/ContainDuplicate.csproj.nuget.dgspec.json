@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/algo/ContainDuplicate/ContainDuplicate.csproj": {}
+    "/Users/cfndiaye/Projects/Algo/algo/ContainDuplicate/ContainDuplicate.csproj": {}
   },
   "projects": {
-    "/workspaces/algo/ContainDuplicate/ContainDuplicate.csproj": {
+    "/Users/cfndiaye/Projects/Algo/algo/ContainDuplicate/ContainDuplicate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/algo/ContainDuplicate/ContainDuplicate.csproj",
+        "projectUniqueName": "/Users/cfndiaye/Projects/Algo/algo/ContainDuplicate/ContainDuplicate.csproj",
         "projectName": "ContainDuplicate",
-        "projectPath": "/workspaces/algo/ContainDuplicate/ContainDuplicate.csproj",
-        "packagesPath": "/var/nuget",
-        "outputPath": "/workspaces/algo/ContainDuplicate/obj/",
+        "projectPath": "/Users/cfndiaye/Projects/Algo/algo/ContainDuplicate/ContainDuplicate.csproj",
+        "packagesPath": "/Users/cfndiaye/.nuget/packages/",
+        "outputPath": "/Users/cfndiaye/Projects/Algo/algo/ContainDuplicate/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/cfndiaye/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/dotnet/6.0.201/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

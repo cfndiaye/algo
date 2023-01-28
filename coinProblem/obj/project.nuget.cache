@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TQaIV2MF5bHCZAi5U+lGenm4FL1974sEiIXCFM5AmAAVnHqwfN3DUl0Ep7GGXnmqA7GA7bn8Cp7hdELM4lLlKA==",
+  "dgSpecHash": "Uy6x/xFalla5NYtFCbgvFMeqkFJYtlNNKWiR4yJLV8mh9ysuFyhZxaEj8hUnSPk+I3+m6wnLzyhOemVFVNQr6Q==",
   "success": true,
-  "projectFilePath": "/workspaces/algo/coinProblem/coinProblem.csproj",
+  "projectFilePath": "/Users/cfndiaye/Projects/Algo/algo/coinProblem/coinProblem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

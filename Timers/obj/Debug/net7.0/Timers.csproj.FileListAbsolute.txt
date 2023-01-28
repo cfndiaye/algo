@@ -1,0 +1,15 @@
+/Users/cfndiaye/Projects/Algo/algo/Timers/obj/Debug/net7.0/Timers.csproj.AssemblyReference.cache
+/Users/cfndiaye/Projects/Algo/algo/Timers/obj/Debug/net7.0/Timers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cfndiaye/Projects/Algo/algo/Timers/obj/Debug/net7.0/Timers.AssemblyInfoInputs.cache
+/Users/cfndiaye/Projects/Algo/algo/Timers/obj/Debug/net7.0/Timers.AssemblyInfo.cs
+/Users/cfndiaye/Projects/Algo/algo/Timers/obj/Debug/net7.0/Timers.csproj.CoreCompileInputs.cache
+/Users/cfndiaye/Projects/Algo/algo/Timers/bin/Debug/net7.0/Timers
+/Users/cfndiaye/Projects/Algo/algo/Timers/bin/Debug/net7.0/Timers.deps.json
+/Users/cfndiaye/Projects/Algo/algo/Timers/bin/Debug/net7.0/Timers.runtimeconfig.json
+/Users/cfndiaye/Projects/Algo/algo/Timers/bin/Debug/net7.0/Timers.dll
+/Users/cfndiaye/Projects/Algo/algo/Timers/bin/Debug/net7.0/Timers.pdb
+/Users/cfndiaye/Projects/Algo/algo/Timers/obj/Debug/net7.0/Timers.dll
+/Users/cfndiaye/Projects/Algo/algo/Timers/obj/Debug/net7.0/refint/Timers.dll
+/Users/cfndiaye/Projects/Algo/algo/Timers/obj/Debug/net7.0/Timers.pdb
+/Users/cfndiaye/Projects/Algo/algo/Timers/obj/Debug/net7.0/Timers.genruntimeconfig.cache
+/Users/cfndiaye/Projects/Algo/algo/Timers/obj/Debug/net7.0/ref/Timers.dll

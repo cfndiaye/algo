@@ -1,26 +1,23 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Give the Amount");
-var change = new Change();
-var changeInput = Console.ReadLine();
-int changeValue = 0;
-var result = int.TryParse(changeInput, out changeValue);
-int[] coinNumber = new int[3];
-if(result)
-{
-    int[] coin = new int[]{10,5,2};
-    int count = 0;
-    for (int i = 0; i < coin.Length; i++)
-    {
-        count = changeValue / coin[i];
-        if(count != 0)
-        {
-            coinNumber[i] = count;
-            changeValue %= coin[i];
-        }
-    }
-    change.coin2 = coinNumber[2];
-    change.bill5 = coinNumber[1];
-    change.bill10 = coinNumber[0];
+﻿
 
-    Console.WriteLine(change.ToString());
+/*
+This code prompts the user for an amount and then calculates the change in coins and bills that should be given back. 
+It first reads the user's input and converts it to an integer. 
+It then creates an array of coins (10, 5, and 2) and a separate array of integers to store the number of each coin. 
+It then loops through the array of coins, calculating how many of each coin should be given back. 
+Finally, it stores the number of each coin in a Change object and prints out a string representation of that object.
+*/
+
+Console.WriteLine("Give the Amount");
+
+var changeInput = Console.ReadLine();
+int changedValue = 0;
+var result = int.TryParse(changeInput, out changedValue);
+
+
+if (result)
+{
+    var change = new Change(changedValue);
+   
+    System.Console.WriteLine(change.ToString());
 }
