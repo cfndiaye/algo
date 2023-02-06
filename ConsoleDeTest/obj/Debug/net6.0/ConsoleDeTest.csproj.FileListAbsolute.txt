@@ -1,0 +1,15 @@
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/bin/Debug/net6.0/ConsoleDeTest
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/bin/Debug/net6.0/ConsoleDeTest.deps.json
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/bin/Debug/net6.0/ConsoleDeTest.runtimeconfig.json
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/bin/Debug/net6.0/ConsoleDeTest.dll
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/bin/Debug/net6.0/ConsoleDeTest.pdb
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/obj/Debug/net6.0/ConsoleDeTest.csproj.AssemblyReference.cache
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/obj/Debug/net6.0/ConsoleDeTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/obj/Debug/net6.0/ConsoleDeTest.AssemblyInfoInputs.cache
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/obj/Debug/net6.0/ConsoleDeTest.AssemblyInfo.cs
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/obj/Debug/net6.0/ConsoleDeTest.csproj.CoreCompileInputs.cache
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/obj/Debug/net6.0/ConsoleDeTest.dll
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/obj/Debug/net6.0/refint/ConsoleDeTest.dll
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/obj/Debug/net6.0/ConsoleDeTest.pdb
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/obj/Debug/net6.0/ConsoleDeTest.genruntimeconfig.cache
+/Users/cfndiaye/Projects/Algo/algo/ConsoleDeTest/obj/Debug/net6.0/ref/ConsoleDeTest.dll

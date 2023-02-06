@@ -1,0 +1,15 @@
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/obj/Debug/net7.0/RomanToInt.csproj.AssemblyReference.cache
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/obj/Debug/net7.0/RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/obj/Debug/net7.0/RomanToInt.AssemblyInfoInputs.cache
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/obj/Debug/net7.0/RomanToInt.AssemblyInfo.cs
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/obj/Debug/net7.0/RomanToInt.csproj.CoreCompileInputs.cache
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/bin/Debug/net7.0/RomanToInt
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/bin/Debug/net7.0/RomanToInt.deps.json
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/bin/Debug/net7.0/RomanToInt.runtimeconfig.json
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/bin/Debug/net7.0/RomanToInt.dll
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/bin/Debug/net7.0/RomanToInt.pdb
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/obj/Debug/net7.0/RomanToInt.dll
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/obj/Debug/net7.0/refint/RomanToInt.dll
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/obj/Debug/net7.0/RomanToInt.pdb
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/obj/Debug/net7.0/RomanToInt.genruntimeconfig.cache
+/Users/cfndiaye/Projects/Algo/algo/RomanToInt/obj/Debug/net7.0/ref/RomanToInt.dll
