@@ -1,0 +1,15 @@
+/Users/cfndiaye/Projects/Algo/algo/DSA/obj/Debug/net7.0/Dsa.csproj.AssemblyReference.cache
+/Users/cfndiaye/Projects/Algo/algo/DSA/obj/Debug/net7.0/Dsa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cfndiaye/Projects/Algo/algo/DSA/obj/Debug/net7.0/Dsa.AssemblyInfoInputs.cache
+/Users/cfndiaye/Projects/Algo/algo/DSA/obj/Debug/net7.0/Dsa.AssemblyInfo.cs
+/Users/cfndiaye/Projects/Algo/algo/DSA/obj/Debug/net7.0/Dsa.csproj.CoreCompileInputs.cache
+/Users/cfndiaye/Projects/Algo/algo/DSA/bin/Debug/net7.0/Dsa
+/Users/cfndiaye/Projects/Algo/algo/DSA/bin/Debug/net7.0/Dsa.deps.json
+/Users/cfndiaye/Projects/Algo/algo/DSA/bin/Debug/net7.0/Dsa.runtimeconfig.json
+/Users/cfndiaye/Projects/Algo/algo/DSA/bin/Debug/net7.0/Dsa.dll
+/Users/cfndiaye/Projects/Algo/algo/DSA/bin/Debug/net7.0/Dsa.pdb
+/Users/cfndiaye/Projects/Algo/algo/DSA/obj/Debug/net7.0/Dsa.dll
+/Users/cfndiaye/Projects/Algo/algo/DSA/obj/Debug/net7.0/refint/Dsa.dll
+/Users/cfndiaye/Projects/Algo/algo/DSA/obj/Debug/net7.0/Dsa.pdb
+/Users/cfndiaye/Projects/Algo/algo/DSA/obj/Debug/net7.0/Dsa.genruntimeconfig.cache
+/Users/cfndiaye/Projects/Algo/algo/DSA/obj/Debug/net7.0/ref/Dsa.dll
