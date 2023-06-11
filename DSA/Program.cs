@@ -37,13 +37,22 @@ public static class Program
 		var potentielCelebrity = Solution.Celebrity(matrice, 2);
 
 		Console.WriteLine(potentielCelebrity);
-		*/
+		
 
 		var arr = new int[]{16,17,4,3,5,2};
 
 		var leaders = Leader.LeadersVersion2(arr, 6);
 
 		Console.WriteLine(leaders.ConvertArrayToString());
+		*/
+
+		var arrange = new ArrayArrange();
+
+		var a = new int[] {-3, 3, -2, 2, 0, -1};
+
+		var A = arrange.Rearrange(a, a.Length);
+
+		Console.WriteLine(A.ConvertArrayToString());
 
     }
 

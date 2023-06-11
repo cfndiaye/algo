@@ -6,16 +6,20 @@ namespace DSA;
 public static class RemoveDuplicatesFromArray
 {
 	
-	public static string ConvertArrayToString(this Array array)
+	public static string ConvertArrayToString(this int[] array)
 	{
+		array.AsReadOnly();
+		
 		var result = new StringBuilder();
 		result.Append("{ ");
-		foreach (var item in array)
-		{
-			result.Append(item.ToString() + ", ");
-		}
 
-		result.Remove(result.Length - 2, 2);
+		for (int i = 0; i <= array.Length - 1; i++)
+		{
+			result.Append(array[i].ToString() + ", ");
+			
+		}
+		
+		result.Remove(result.Length - 2, 1);
 		result.Append(" }");
 
 		return result.ToString();
